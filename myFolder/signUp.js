@@ -1,1 +1,1 @@
-alert('Welcome fasdfasdf Page');fasdfasdf
+alert('Welcome signUp Page');
