@@ -1,4 +1,1 @@
-*.txt
-*.png
-!one.txt
 .env
