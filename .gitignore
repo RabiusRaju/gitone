@@ -2,4 +2,3 @@
 *.png
 !one.txt
 .env
-myFolder/
