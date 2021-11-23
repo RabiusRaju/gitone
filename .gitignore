@@ -1,3 +1,5 @@
 *.txt
+*.png
 !one.txt
 .env
+myFolder/
